@@ -47,7 +47,7 @@
 <h3 align="left">📂 Proyectos Destacados:</h3>
 
 - 🎸 [Local de camisetas con React](https://carolatex.vercel.app/)  
-- 🛍️ [FakeStore App (Flutter)](https://github.com/ArgueDev/Prueba-Tecnica-Flutter)
+- 🛍️ [Costly App (Flutter)](https://github.com/ArgueDev/Costly)
 
 ---
 
